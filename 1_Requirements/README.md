@@ -34,7 +34,7 @@ The modern game we know as tic-tac-toe is played on a nine-square grid created b
 ## SWOT ANALYSIS
 ![Screen Shot 2022-02-10 at 11 51 06 PM](https://user-images.githubusercontent.com/60956507/153475348-2dc8283e-5fab-44fa-900d-775199572dfc.png)
 
-## High Level Requiement
+## High Level Requirement
 | ID | Description | Status |
 | --- | --- | --- |
 | HL01 | The game is played on a grid that's 3 squares by 3 squares. | Implemented |
@@ -42,4 +42,12 @@ The modern game we know as tic-tac-toe is played on a nine-square grid created b
 | HL03 | The first player to get 3 of her marks in a row is the winner | Implemented |
 | HL04 | When all 9 squares are full, the game is over. If no player has 3 marks in a row, the game ends in a tie.| Implemented |
 
+
+ ## Low Level Requirment
+ | ID | Description | Status |
+| --- | --- | --- |
+| HL01 |  | Implemented |
+| HL02 |  | Implemented |
+| HL03 | | Implemented |
+| HL04 | | Implemented |
 
