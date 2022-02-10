@@ -31,4 +31,5 @@ Tic-tac-toe is a game that is traditionally played by being drawn on paper, and 
 ## HOW:
 The modern game we know as tic-tac-toe is played on a nine-square grid created by drawing lines to create three horizontal rows and three vertical columns. 
 
+## SWOT ANALYSIS
 
