@@ -37,9 +37,9 @@ The modern game we know as tic-tac-toe is played on a nine-square grid created b
 ## High Level Requiement
 | ID | Description | Status |
 | --- | --- | --- |
-| HL01 | The game is played on a grid that's 3 squares by 3 squares. |
-| HL02 | You are X, your friend (or the computer in this case) is O. Players take turns putting their marks in empty squares. |
-| HL03 | The first player to get 3 of her marks in a row is the winner |
-| HL04 | When all 9 squares are full, the game is over. If no player has 3 marks in a row, the game ends in a tie.|
+| HL01 | The game is played on a grid that's 3 squares by 3 squares. | Implemented |
+| HL02 | You are X, your friend (or the computer in this case) is O. Players take turns putting their marks in empty squares. | Implemented |
+| HL03 | The first player to get 3 of her marks in a row is the winner | Implemented |
+| HL04 | When all 9 squares are full, the game is over. If no player has 3 marks in a row, the game ends in a tie.| Implemented |
 
 
