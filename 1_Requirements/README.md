@@ -37,5 +37,5 @@ The modern game we know as tic-tac-toe is played on a nine-square grid created b
 ## High Level Requiement
 | ID | Description |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| HL01 | List all new or modified files |
+| HL02 | Show file differences that haven't been staged |
