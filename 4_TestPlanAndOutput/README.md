@@ -13,6 +13,10 @@
 | --- | --- | --- | --- | --- | --- |
 | L_1 | Accepting right charecters/inputs | User input-> Value of 1-9 | X/O | X/O | Technical |
 | L_2 | Alternating between X and O Players | User input->Value of 1-9 | X/O | X/O | Technical |
-| L_3 | Determining the Winner of the Game: | X/O | 3X,3O | 3X,3O | Technical |
+| L_3 | Repeated input | Repeated input from user between 1-9 | X/O | invalid input | Technical |
+| L_4 | Determining the Winner of the Game: | X/O | 3X,3O | 3X,3O | Technical |
+| L_5 | Final Winner | Player X or Player O Wins | Player X Wins / Player O Wins  | Player X Wins / Player Y Wins | Technical |
+
+
 
 
