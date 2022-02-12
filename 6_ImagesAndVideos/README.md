@@ -10,3 +10,5 @@
 ![Output1](https://user-images.githubusercontent.com/60956507/153709822-ce3efa73-aae4-469c-9008-cdc81c600d09.jpeg)
 ![Output2](https://user-images.githubusercontent.com/60956507/153709823-be5ae1ff-7cb7-4650-bb4d-80e195e3ad57.png)
 ![Output2](https://user-images.githubusercontent.com/60956507/153709824-bad03516-5609-442e-a97a-31c1fc291d3c.jpeg)
+![Chirag_SWOT](https://user-images.githubusercontent.com/60956507/153711616-45bd8c61-c547-478c-b0b9-f15885f412aa.png)
+
