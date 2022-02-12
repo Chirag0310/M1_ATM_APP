@@ -19,10 +19,11 @@
 
 
 ## FINAL OUTPUT
- ## OUTPUT 1
+ ## OUTPUT 1 PLAYER 1 WINS
+ ![Output2](https://user-images.githubusercontent.com/60956507/153709581-daf5a19d-a222-4d36-a8c7-5b9f47212f7b.jpeg)
+
+
+## OUTPUT 2 PLAYER 2 WINS
+
  ![Output1](https://user-images.githubusercontent.com/60956507/153709543-10360d42-abf1-4ac6-94fc-0bc5b7a06feb.jpeg)
 
-## OUTPUT 2
-
-
-![Output2](https://user-images.githubusercontent.com/60956507/153709581-daf5a19d-a222-4d36-a8c7-5b9f47212f7b.jpeg)
