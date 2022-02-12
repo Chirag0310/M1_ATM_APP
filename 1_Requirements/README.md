@@ -12,7 +12,20 @@ The first player to get 3 of her marks in a row (up, down, across, or diagonally
 When all 9 squares are full, the game is over.
 
 ## State of art/Research
-Reference== 
+Reference==https://people.eecs.berkeley.edu/~bh/v1ch6/ttt.html
+https://www.geeksforgeeks.org/implementation-of-tic-tac-toe-game/
+
+
+## Costs and Features 
+This game is entirely free of cost as it has no special requirements such as server hosting etc. So this is a money friendly game.
+
+
+## Tools 
+GITHUB
+VS CODE
+CODACY 
+CODIGA
+CANVA.COM
 
 ## 4W's 1-H
 
