@@ -1,5 +1,4 @@
 #include<stdio.h>
-//#include<conio.h>
     char tic[10]={'0','1','2','3','4','5','6','7','8','9'};
     int win();
     void game();
@@ -48,7 +47,6 @@
             {
                 printf("Not Valid");
                 player--;
-                //getch();
             }
             i = win();
             player++;
@@ -58,12 +56,9 @@
         game();
         
         if (i == 1)
-            printf("Player %d Win", --player);
+            printf("Player %d Wins The Match", --player);
         else
-            printf("It's Tie..");
-    
-        //getch();
-    
+            printf("It's Tie..");    
         return 0;
     }
     
