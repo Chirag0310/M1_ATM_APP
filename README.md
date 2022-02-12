@@ -5,3 +5,4 @@ Tic-tac-toe is a paper-and-pencil game for two players, X and O, who take turns 
 
 ## Codiga
   ![svg](https://api.codiga.io/project/31039/score/svg)
+  ![svg](https://api.codiga.io/project/31039/status/svg)
