@@ -61,8 +61,8 @@ The modern game we know as tic-tac-toe is played on a nine-square grid created b
  ## Low Level Requirment
  | ID | Description | Status |
 | --- | --- | --- |
-| HL01 |  | Implemented |
-| HL02 |  | Implemented |
-| HL03 | | Implemented |
-| HL04 | | Implemented |
+| L_01 | Accepting right charecters/inputs | Implemented |
+| L_02 |  | Implemented |
+| L_03 | | Implemented |
+| L_04 | | Implemented |
 
