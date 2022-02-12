@@ -13,7 +13,7 @@ When all 9 squares are full, the game is over.
 
 ## State of art/Research
 Reference==https://people.eecs.berkeley.edu/~bh/v1ch6/ttt.html
-https://www.geeksforgeeks.org/implementation-of-tic-tac-toe-game/
+Reference== https://www.geeksforgeeks.org/implementation-of-tic-tac-toe-game/
 
 
 ## Costs and Features 
