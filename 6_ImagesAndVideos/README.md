@@ -1,5 +1,5 @@
 
-[ChiragSolanki-NDG Linux Unhatc-certificate.pdf](https://github.com/Chirag0310/M1_Tic-Tac-Toe_Game/files/8053278/ChiragSolanki-NDG.Linux.Unhatc-certificate.pdf)
+![Screen Shot 2022-02-12 at 5 15 24 PM](https://user-images.githubusercontent.com/60956507/153709956-b49cd27e-1267-40b9-aec5-131a6e47a71d.png)
 
 ![GitCourse](https://user-images.githubusercontent.com/60956507/153709808-e6000432-6cb0-411a-8e7a-bfa3ba1ac1b3.JPG)
 
