@@ -98,7 +98,7 @@
     
     void game()
     {
-        printf("Player 1 (X) & Player 2 (O)\n\n\n");
+        printf("Player 1 (X) \nPlayer 2 (O)\n\n\n");
         printf(" %c | %c | %c \n", tic[1], tic[2], tic[3]);
         printf("___|___|___\n");
         printf(" %c | %c | %c \n", tic[4], tic[5], tic[6]);
