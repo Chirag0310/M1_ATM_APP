@@ -18,5 +18,10 @@
 | L_5 | Final Winner | Player X or Player O Wins | Player X Wins / Player O Wins  | Player X Wins / Player Y Wins | Technical |
 
 
+## FINAL OUTPUT
+ ## OUTPUT 1
+ ![Output1](https://user-images.githubusercontent.com/60956507/153709543-10360d42-abf1-4ac6-94fc-0bc5b7a06feb.jpeg)
+
+## OUTPUT 2
 
 
