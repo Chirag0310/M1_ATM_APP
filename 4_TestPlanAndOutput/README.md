@@ -3,8 +3,8 @@
 
 | ID | Description | Exp i/p | Exp O/p | Actual Output | Type of test |
 | --- | --- | --- | --- | --- | --- |
-| H_1 | Basic input | 1-9 | X/O | X/O | Technical |
 | H_1 | Displaying a 3x3 grid | X/O | X/O | X/O | Technical |
+| H_2 | Basic input | 1-9 | X/O | X/O | Technical |
 
 
 
