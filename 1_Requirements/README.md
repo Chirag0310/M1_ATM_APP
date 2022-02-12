@@ -62,7 +62,7 @@ The modern game we know as tic-tac-toe is played on a nine-square grid created b
  | ID | Description | Status |
 | --- | --- | --- |
 | L_01 | Accepting right charecters/inputs | Implemented |
-| L_02 |  | Implemented |
+| L_02 | Alternating between X and O Players | Implemented |
 | L_03 | | Implemented |
 | L_04 | | Implemented |
 
