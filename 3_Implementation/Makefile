@@ -1,4 +1,4 @@
-PROJ_NAME = Tic Tac Toe Game 
+PROJ_NAME = Tic_Tac_Toe_Game 
 SRC = Game.c 
 
 #To check if the OS is windows or linux and set the executable file extension and delete command accordingly
