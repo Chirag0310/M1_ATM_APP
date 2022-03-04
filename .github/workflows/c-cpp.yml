@@ -14,5 +14,5 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: make Build
-      run: make Build -C 3_Implementation
+      run: make Build -C /home/runner/work/M1_Tic-Tac-Toe_Game/M1_Tic-Tac-Toe_Game/3_Implementation
   
