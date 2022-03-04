@@ -20,4 +20,6 @@ build:
 run: build
    ./$(call FixPath,$(PROJ_NAME).$(EXEC))
 
+clean:
+   $(RM) $(call FixPath,$(PROJ_NAME).$(EXEC))
 
